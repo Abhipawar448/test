@@ -1,5 +1,5 @@
 //this is edited file
-////gjgjk
+
 import java.util.Scanner;
 class fib
 {
