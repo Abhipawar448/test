@@ -1,5 +1,5 @@
 //this is edited file
-//smlmld
+
 import java.util.Scanner;
 class fib
 {
